@@ -1,2 +1,1 @@
-# recommendation-systems-course
-Lab code from the Recommendation systems course at AGH UST.
+# Recommendation systems course at AGH UST - 2026/2027.
