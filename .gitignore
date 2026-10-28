@@ -2,3 +2,5 @@
 *.csv
 */__pycache__
 lab3/socialmediadata-beeradvocate
+lab4/amazon
+*.npy
