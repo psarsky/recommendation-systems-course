@@ -3,4 +3,5 @@
 */__pycache__
 lab3/socialmediadata-beeradvocate
 lab4/amazon
+*/ml-latest-small
 *.npy
